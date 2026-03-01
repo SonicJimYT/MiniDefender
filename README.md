@@ -1,6 +1,6 @@
 # 🛡️ MiniDefender
 
-MiniDefender X is a lightweight, Python-based antivirus engine that combines **local heuristic analysis**, **keyword detection**, and **cloud-based threat intelligence** to protect your files.
+MiniDefender is a lightweight, Python-based antivirus engine that combines **local heuristic analysis**, **keyword detection**, and **cloud-based threat intelligence** to protect your files.
 
 
 
